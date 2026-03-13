@@ -1,3 +1,8 @@
+-- Databricks Sales Dashboard SQL Queries
+-- Dataset tables: fact_sales, dim_products, dim_customers
+-- Used to generate metrics for the dashboard visualizations
+
+
 SHOW tables;
 DESCRIBE TABLE dim_customers;
 
